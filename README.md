@@ -69,6 +69,8 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=omkark45&repo=JavaScript-Projects&theme=synthwave&show_icons=true)](https://github.com/omkark45/JavaScript-Projects)
 
+
+
 [website]: https://omkark45.github.io/
 [twitter]: https://twitter.com/omkar_k45
 [instagram]: https://instagram.com/omkar_k45

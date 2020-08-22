@@ -1,6 +1,6 @@
 <div align='center'>
     <h2>Hi There 👋</h2>
-    <img src='img/bg2.png'></img>
+    <img src='./img/bg2.png'></img>
 </div>
 
 <div align='center'>

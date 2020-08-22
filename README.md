@@ -1,16 +1,16 @@
-### Hi there 👋
+<div align='center'>
+    <h2>Hi There 👋</h2>
+    <img src='img/bg.png'></img>
+</div>
 
-<!--
-**OmkarK45/OmkarK45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align='center'>
 
-Here are some ideas to get you started:
+[![Website](https://img.shields.io/badge/Website-Portfolio-blueviolet)](https://omkark45.github.io)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+
+[website]: https://omkarkulkarni.netlify.app
+[twitter]: https://twitter.com/omkar_k45
+[instagram]: https://instagram.com/omkar_k45
+[linkedin]: https://www.linkedin.com/in/omkar-kulkarni-ab7a32191/

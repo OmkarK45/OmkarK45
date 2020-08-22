@@ -55,7 +55,7 @@
 <hr>
 
 ## My Github Statistics 
-![Omkar's github stats](https://github-readme-stats.vercel.app/api?username=omkark45)
+![Omkar's github stats](https://github-readme-stats.vercel.app/api?username=omkark45&theme=synthwave&show_icons=true)
 
 
 

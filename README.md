@@ -57,7 +57,17 @@
 ## My Github Statistics 
 ![Omkar's github stats](https://github-readme-stats.vercel.app/api?username=omkark45&theme=synthwave&show_icons=true)
 
+<br>
 
+## My Repositories
+
+<br>
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=omkark45&repo=TaskWise-Get-work-done&theme=synthwave&show_icons=true)](https://github.com/omkark45/TaskWise-Get-work-done)
+
+<br>
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=omkark45&repo=JavaScript-Projects&theme=synthwave&show_icons=true)](https://github.com/omkark45/JavaScript-Projects)
 
 [website]: https://omkark45.github.io/
 [twitter]: https://twitter.com/omkar_k45

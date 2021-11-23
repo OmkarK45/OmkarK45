@@ -31,8 +31,9 @@
 
 I'm a full stack developer and avid problem solver. I carry passion for web development. I absolutely love converting ideas into reality.
 I've been looking for internship opportunities to take my skills to next level.
-
+-- Please note : Not all of my projects have a readme as of now. It is something I will fix really soon.
 <br>
+
 <hr>
 
 ## My Github Statistics

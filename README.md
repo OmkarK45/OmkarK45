@@ -1,76 +1,39 @@
-<div align='center'>
-    <img src='https://i.imgur.com/u1lKwy0.png'></img>
-</div>
 
-<br>
-<div align='center'>
+# Hi, I'm Omkar! 👋
 
-[![Website](https://img.shields.io/badge/Website-Portfolio-blueviolet)](https://omkark45.github.io)
 
-</div>
-<hr>
-<br>
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://omkarkulkarni.vercel.app/) // Work in progress
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omkark45/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/omkar_k45)
 
-# I'm listening to
 
-[![Spotify](https://spotify-now-playing-ten-delta.vercel.app/api/spotify)](https://open.spotify.com/user/omkark45)
+## 🛠 Skills
 
-## I'm a Student Developer 🎓
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Apollo Graphql](https://img.shields.io/badge/Apollo%20GraphQL-311C87?&style=for-the-badge&logo=Apollo%20GraphQL&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Next.JS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
-- 🔭 I’m currently working on backend projects
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love dogs ! 🐶
 
-<br>
 
-<hr>
+## Other Common Github Profile Sections
+👩‍💻 I'm currently working on a e-commerce project
 
-## Connect with me:
+🧠 I'm currently exploring GraphQL
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+💬 Ask me about cricket!
 
-<br>
-<br>
+📫 How to reach me? 
+- You can connect with me on my Twitter or my work email 
+omkarak45@gmail.com
 
-## Languages and Tools:
 
-<img align="left" alt="ReactJS" width="26px" src="img/react.png" />
-<img align="left" alt="MongoDB" width="26px" src="img/mongodb.png" />
-<img align="left" alt="Node.js" width="26px" src="img/node.png" />
-<img align="left" alt="Express" width="26px" src="img/exp.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="img/vsc.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+## 🚀 About Me
+I'm a full stack developer and avid problem solver. I carry passion for web development. I absolutely love converting ideas into reality. 
+I've been looking for internship opportunities to take my skills to next level.
 
-<br>
-<hr>
-
-## My Github Statistics
-
-![Omkar's github stats](https://github-readme-stats.vercel.app/api?username=omkark45&theme=synthwave&show_icons=true)
-
-<br>
-
-## My Repositories
-
-<br>
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=omkark45&repo=TaskWise-Get-work-done&theme=synthwave&show_icons=true)](https://github.com/omkark45/TaskWise-Get-work-done)
-
-<br>
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=omkark45&repo=JavaScript-Projects&theme=synthwave&show_icons=true)](https://github.com/omkark45/JavaScript-Projects)
-
-[website]: https://omkark45.github.io/
-[twitter]: https://twitter.com/omkar_k45
-[instagram]: https://instagram.com/omkar_k45
-[linkedin]: https://www.linkedin.com/in/omkar-kulkarni-ab7a32191/

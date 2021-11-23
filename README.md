@@ -16,8 +16,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Next.JS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
-## Other Common Github Profile Sections
-
 👩‍💻 I'm currently working on a e-commerce project
 
 🧠 I'm currently exploring GraphQL

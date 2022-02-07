@@ -16,11 +16,11 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Next.JS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
-👩‍💻 I'm currently working on a e-commerce project
+👩‍💻 I'm currently working as a frontend development intern for an early stage startup. 
 
-🧠 I'm currently exploring GraphQL
+🧠 I'm currently exploring React Native! 
 
-💬 Ask me about cricket!
+💬 Ask me about cricket, TV Shows
 
 📫 How to reach me?
 
@@ -30,8 +30,8 @@
 ## 🚀 About Me
 
 I'm a full stack developer and avid problem solver. I carry passion for web development. I absolutely love converting ideas into reality.
-I've been looking for internship opportunities to take my skills to next level.
--- Please note : Not all of my projects have a readme as of now. It is something I will fix really soon.
+I build end to end web applications using modern technologies. Checkout my blogs and projects.
+
 <br>
 
 <hr>

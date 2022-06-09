@@ -16,9 +16,9 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Next.JS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
-👩‍💻 I'm currently working as a frontend development intern for an early stage startup. 
+👩‍💻 I work at smallcase as SDE-I
 
-🧠 I'm currently exploring React Native! 
+🧠 I'm currently exploring React Testing Library
 
 💬 Ask me about cricket, TV Shows
 

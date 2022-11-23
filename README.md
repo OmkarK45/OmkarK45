@@ -28,15 +28,14 @@
   omkarak45@gmail.com
 
 ## 🚀 About Me
-
-I'm a full stack developer and avid problem solver. I carry passion for web development. I absolutely love converting ideas into reality.
-I build end to end web applications using modern technologies. Checkout my blogs and projects.
+I work as a software engineer
 
 <br>
 
 <hr>
 
 ## My Github Statistics
-
+![](https://komarev.com/ghpvc/?username=your-github-username)
+<br>
 ![Omkar's github stats](https://github-readme-stats.vercel.app/api?username=omkark45&theme=synthwave&show_icons=true)
 <br>

@@ -35,7 +35,7 @@ I work as a software engineer
 <hr>
 
 ## My Github Statistics
-![](https://komarev.com/ghpvc/?username=your-github-username)
+![](https://komarev.com/ghpvc/?username=omkark45)
 <br>
 ![Omkar's github stats](https://github-readme-stats.vercel.app/api?username=omkark45&theme=synthwave&show_icons=true)
 <br>

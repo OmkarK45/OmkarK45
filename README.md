@@ -17,7 +17,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Next.JS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
-💻 I work at smallcase as SDE 1
+💻 I work at smallcase as SDE 2
 
 💬 Ask me about cricket, TV Shows
 

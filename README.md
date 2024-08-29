@@ -1,4 +1,4 @@
-![banner-v2 (1) (1) (1)](https://github.com/user-attachments/assets/37aede4b-663d-447f-ab79-1dfeae999a5f)
+![banner-v2](https://github.com/user-attachments/assets/54bf0659-eef3-4a32-81d1-f2796ac56fc2)
 
 
 ## 🔗 Links

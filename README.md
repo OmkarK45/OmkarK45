@@ -1,4 +1,5 @@
-# Hi, I'm Omkar! 👋
+![banner-v2 (1) (1) (1)](https://github.com/user-attachments/assets/37aede4b-663d-447f-ab79-1dfeae999a5f)
+
 
 ## 🔗 Links
 
@@ -17,12 +18,5 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Next.JS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
-💻 I work at smallcase as SDE 2
 
-💬 Ask me about cricket, TV Shows
-
-📫 How to reach me?
-- You can message me on twitter @omkar_k45
-
-<hr>
 

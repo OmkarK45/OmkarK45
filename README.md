@@ -19,4 +19,4 @@
 ![Next.JS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=OmkarK45/OmkarK45" alt="OmkarK45">  
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=OmkarK45.OmkarK45)
